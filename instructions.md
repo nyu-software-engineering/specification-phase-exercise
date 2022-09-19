@@ -4,7 +4,7 @@ A little exercise to help you get started with the specification phase of the so
 
 ## Overview
 
-In this exercise you will work with a team to create the complete specification of a mobile application of your choosing. The work to produce this specification will include:
+In this exercise you will work with a small team to create the complete specification of a mobile application of your choosing. The work to produce this specification will include:
 
 - ideation
 - requirements elicitation and analysis
@@ -59,6 +59,10 @@ Convert the wireframe diagrams into a clickable prototype. These should be compl
 By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
 
 Place a link to the published clickable prototype in the `README.md` file in the appropriate place. The link must not require a user to log in to view the prototype.
+
+## Stakeholder demo
+
+You may be asked to present your work during class on the exercise due date. Presentations should consist of a very brief explanation of the project concept and a demonstration of the clickable prototype. The entire presentation should be well organized to clearly show the core functionality of the app and should last no more than 5 minutes.
 
 ## Submit your work
 
