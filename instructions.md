@@ -59,3 +59,7 @@ Convert the wireframe diagrams into a clickable prototype. These should be compl
 By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
 
 Place a link to the published clickable prototype in the `README.md` file in the appropriate place. The link must not require a user to log in to view the prototype.
+
+## Submit your work
+
+When you are done submit your work by pushing your changes to this repository to GitHub. Then send the URL of your repository to the graders.
