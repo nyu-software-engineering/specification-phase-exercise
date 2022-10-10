@@ -21,3 +21,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+## Clickable Prototype
+
+See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
