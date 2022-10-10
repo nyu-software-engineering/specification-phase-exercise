@@ -32,7 +32,7 @@ Write details about your stakeholder(s) and their goals and furstrations into th
 
 Once your stakeholder has been interviewed, your team and they must settle on a foundational **Product Vision Statement** - a single sentence explaining the main concept of the app. The rest of your work will be based on this statement.
 
-Write this Product Vision Statement into the ``README.md` file in the appropriate place.
+Write this Product Vision Statement into the `README.md` file in the appropriate place.
 
 ## User Requirements
 
