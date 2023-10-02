@@ -54,7 +54,7 @@ Create a set of wireframe diagrams representing every screen of the application.
 
 ## Clickable prototype
 
-Convert the wireframe diagrams into a clickable prototype. These should be complete: every link or button in the prototype should take the user to the next screen in the flow; every piece of content (text, images, or video) that will appear in the completed application should appear in the clickable prototype.
+Convert the wireframe diagrams into a clickable prototype. These should be complete: every link or button in the prototype should take the user to the next screen in the flow; every place where actual content will go on each screen (i.e. every bit of text, image, or video) should be represented in the wireframe diagrams used in the clickable prototype. Use as little real-looking text as possible to make it obvious what will be written in the text blocks of the final product, while not showing so much that it distracts from the abstract purpose of the wireframe diagrams.
 
 By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
 
