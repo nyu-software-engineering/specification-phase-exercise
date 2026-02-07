@@ -32,7 +32,7 @@ Interview at least one person who is a good representative of each type of user 
 
 Ask each of them questions about their goals, needs and desires. Find out problems and frustrations they have that a mobile app might be able to help with. You should be able to identify at least four goals/needs and four problems/frustrations for each type of user.
 
-Write details about your stakeholder(s) and their goals and furstrations into the [README.md](./README.md) file in the appropriate place. Be sure to note which type of user each stakeholder represents.
+Write details about your stakeholder(s) and their goals and frustrations into the [README.md](./README.md) file in the appropriate place. Be sure to note which type of user each stakeholder represents.
 
 ## Product Vision Statement
 
