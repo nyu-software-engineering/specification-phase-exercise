@@ -18,13 +18,15 @@ In this exercise you will work with a small team to create the complete specific
 
 Ideation is often neglected. It is the process of coming up with a good idea.
 
-In this exercise, you must decide upon a concept for a mobile app that solves specific needs you identify in your target end-users.
+In this exercise, you must decide upon a concept for a mobile app that solves specific needs you identify in your target end-users and other user types.
 
 Before you can evaluate product ideas, you must first identify your target user -- the specific kind(s) of person for whom you are developing this app. This can be any type of person for whom you are willing to design an app.
 
-The vast majority of apps have more than one type of user. For example, if making an e-commerce app, there will obviously be **end-users**, i.e. consumers who buy products through the app. But there will most likely also be users with additional privileges, such as **administrators** who are able to manage the products available in the app and other app-wide settings by using additional functionality available only to users of this type within the app itself. There may also be other user types, such as **editors** who are able to perform some limited additional functionality, such as the ability to modify the text or images displayed on product pages, but who do not have full administrator permissions.
+The vast majority of apps have more than one type of user. For example, if making an e-commerce app, there will obviously be **end-users**, i.e. consumers who buy products through the app. In some apps, you may find that there are multiple sub-types of end-users, each with unique sets of needs and goals. In such a case, where there are large differences among multiple segments of your end-user group, you will consider these to be different end-user types.
 
-It is your responsibility to identify all the types of users who exist for your app idea and make sure you have accommodated each of their needs.
+There will most likely also be users with additional privileges. For example, many apps have **administrators**, who are able to manage the products available in our hypothetical e-commerce app and can modify other app-wide settings by using additional functionality available only to users of this type within the app itself. There may also be other user types, such as **editors** who are able to perform some limited additional functionality, such as the ability to modify the text or images displayed on product pages, but who do not have full administrator permissions.
+
+These user types are examples only. It is your responsibility to identify all the types of users who exist for your app idea and make sure you have accommodated each of their needs.
 
 ## Stakeholder Interview
 
