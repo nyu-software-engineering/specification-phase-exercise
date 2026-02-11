@@ -74,4 +74,4 @@ You may be asked to present your work during class on the exercise due date. Pre
 
 ## Submit your work
 
-When you are done submit your work by pushing your changes to this repository to GitHub. Then send the URL of your repository to both the graders and to the entire class in the `#specification-exercise` channel of our messaging system.
+When you are done submit your work by pushing your changes to this repository to GitHub. Then send the URL of your repository to both the graders in your personal channel and to the entire class in the `#specification-exercise` channel of our messaging system.
