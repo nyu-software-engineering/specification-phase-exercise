@@ -4,21 +4,21 @@ Everything you specify in this exercise attaches to a real product. This documen
 
 ## What it is
 
-**The Slide Machine turns the relationship between lecturer and slides on its head.** Instead of a lecturer speaking *to* slides prepared in advance, the lecturer speaks freely and the slides are generated *from* their speech, in real time, as they talk. At the end of the lecture, an "exit-ticket" quiz is generated from what was actually said and taught, distributed to students, and auto-graded.
+**The Slide Machine turns the relationship between lecturer and slides on its head.** Instead of a lecturer speaking _to_ slides prepared in advance, the lecturer speaks freely and the slides are generated _from_ their speech, in real time, as they talk. At the end of the lecture, an "exit-ticket" quiz is generated from what was actually said and taught, distributed to students, and auto-graded.
 
 The reason for this inversion is pedagogical, not technical. Lecture slides have become the de facto required reading for most courses, and assessments are usually built directly from them — which means a lecturer who goes "off script" to respond to a question, reorder material, or chase an idea is putting their students at a disadvantage on the quiz. So they don't. The system as it stands quietly punishes exactly the teaching that works best. The Slide Machine exists to remove that penalty: the lecturer teaches the room in front of them, and the materials follow.
 
-The application is a full-stack TypeScript system — a React single-page app, an Express API, and MongoDB — using speech-to-text for live transcription and generative AI for slide and quiz generation.
+The application is a full-stack web app, using speech-to-text for live transcription and generative AI for slide and quiz generation.
 
 ## Where to find it
 
-| What | Where |
-| --- | --- |
-| **The live application** | [theslidemachine.com](https://theslidemachine.com) |
-| **The source repository** | [github.com/bloombar/slide-machine](https://github.com/bloombar/slide-machine) |
-| **Software Design Document (SDD)** | `docs/SPEC.md` in the repository |
-| **Delivery roadmap and phasing** | `docs/ROADMAP.md` in the repository |
-| **Contributor guide** | `docs/CONTRIBUTING.md` in the repository |
+| What                               | Where                                                                          |
+| ---------------------------------- | ------------------------------------------------------------------------------ |
+| **The live application**           | [theslidemachine.com](https://theslidemachine.com)                             |
+| **The source repository**          | [github.com/bloombar/slide-machine](https://github.com/bloombar/slide-machine) |
+| **Software Design Document (SDD)** | `docs/SPEC.md` in the repository                                               |
+| **Delivery roadmap and phasing**   | `docs/ROADMAP.md` in the repository                                            |
+| **Contributor guide**              | `docs/CONTRIBUTING.md` in the repository                                       |
 
 You will be given lectures on how the system works internally before and during this exercise. Those lectures are themselves delivered using The Slide Machine, which means you will be watching the product you are specifying, while it is being used for its actual purpose, by its actual primary stakeholder. Pay attention to how it behaves — including when it misbehaves.
 
@@ -33,7 +33,7 @@ The product already recognizes these types of users. Your specification work sho
 - **Administrator / operator** — runs the deployment. Oversight of users and content, audited moderation, health and configuration control, and visibility into what the system is costing and whether it is working.
 - **Contributor (student developer)** — students extending the system. That is you, in this exercise, in the specification role rather than the implementation one.
 
-Whether these are the *right* user types, and whether any of them should be split into sub-types with genuinely different needs, is a question your team is allowed — and encouraged — to answer for itself.
+Whether these are the _right_ user types, and whether any of them should be split into sub-types with genuinely different needs, is a question your team is allowed and encouraged to answer for itself.
 
 ## What the product does today
 
@@ -53,12 +53,12 @@ A rough map of the app's functional territory, as a starting point for your revi
 
 ## Where the project already tells you what it does not know
 
-Two parts of the existing documentation are worth reading closely, because they are where your work is most likely to land:
+Two parts of the existing documentation are worth reading closely, because they are where your work is most likely to land, although there is no requirement that you follow the directions they outline:
 
 - **Future Work** (`docs/SPEC.md` §18) — features that have been specified but deliberately deferred, each with the reasoning for why they were not built yet. If you pick one of these up, read that reasoning first; a proposal that does not engage with the stated reason for deferral will not persuade anyone.
 - **Open Questions** (`docs/SPEC.md` §19) — questions the project has not resolved. These are genuine gaps in the specification, and a well-argued answer to one of them is a real contribution.
 
-Also read the **Delivery Roadmap** (`docs/ROADMAP.md`), particularly its risks and cut-line section. Knowing what the project has decided *not* to do, and why, is how you avoid spending three weeks specifying something that was already rejected for a good reason.
+Also read the **Delivery Roadmap** (`docs/ROADMAP.md`), particularly its risks and cut-line section. Knowing what the project has decided _not_ to do, and why, is how you avoid spending weeks specifying something that was already rejected for a good reason.
 
 ## Constraints your proposal has to live within
 
@@ -72,8 +72,6 @@ These are not arbitrary rules of the exercise; they are real constraints on the 
 
 ## Why this matters beyond the grade
 
-This exercise is part of a funded pilot of The Slide Machine in this course. Improvements and new features specified by student teams may be incorporated into the main project, and students whose contributions are adopted receive public credit for them — which is a genuinely useful thing to be able to point at in a job interview or a graduate application. The count and nature of student-contributed features is also one of the pilot's own measures of whether the system is extensible enough to be worth building.
+Improvements and new features specified by student teams may be incorporated into the main project, and students whose contributions are adopted receive public credit for them, which is a genuinely useful thing to be able to point at in a job interview or a graduate application.
 
-**Credit goes only to work that is original and not already under consideration.** Before you commit to an idea, check whether the project has already got there: read the Future Work and Open Questions sections above, the roadmap, and the repository's open issues and pull requests. Something already specified, already scheduled, or already proposed by someone else can still be a perfectly good exercise to specify — you will be graded on the quality of your specification either way — but it will not be credited as your contribution. Working near those areas is fine and often smart; the requirement is that you know what is already there, and that your specification says clearly which part of it is yours.
-
-So: specify something you would want your name on.
+**Credit goes only to work that is original and not already under consideration.** Before you commit to an idea, check whether the project has already got there: read the Future Work and Open Questions sections above, the roadmap, and the repository's open issues and pull requests. Something already specified, already scheduled, or already proposed by someone else can still be a perfectly good exercise to specify — you will be graded on the quality of your specification either way — but it will not be credited as your contribution. Working near those areas is fine and often smart; the requirement is that you know what is already there, and that your specification and demo explains clearly which part of it is yours.

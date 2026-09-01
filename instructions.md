@@ -26,7 +26,7 @@ Read [background.md](./background.md) first — it explains what The Slide Machi
 
 Three rules shape everything in this exercise.
 
-**You will not write application code.** Not a line of TypeScript, not a component, not a database migration. The only text files you author are Markdown documents, and the only other work you produce is design work — diagrams, wireframes, and a clickable prototype. Specification is the deliverable. If you find yourself wanting to "just build it to see if it works," that instinct is the thing this exercise is training you out of; the point is to find out whether an idea is right *before* anyone spends a month building it.
+**You will not write application code.** Not a line of TypeScript, not a component, not a database migration. The only text files you author are Markdown documents, and the only other work you produce is design work — diagrams, wireframes, and a clickable prototype. Specification is the deliverable. If you find yourself wanting to "just build it to see if it works," that instinct is the thing this exercise is training you out of; the point is to find out whether an idea is right _before_ anyone spends a month building it.
 
 **Your work must be an improvement to The Slide Machine, not a replacement for it.** Every feature you specify has to fit the app that already exists — its user types, its vocabulary, its screens, its constraints. A specification that ignores the product it is attached to is not a specification, it is a wish.
 
@@ -61,19 +61,23 @@ Your proposal should be **substantial and coherent** — a themed body of work, 
 
 ## Stakeholder interview
 
-Interview at least one person who is a good representative of each type of user affected by your proposal. These are your **stakeholders** for the purposes of this exercise.
+Interview at least two people who are representative of each type of user who may be interested the software and whose interest in the app would be affected by your proposal. Your user types must include at least `students` and `instructors`, but can be extended to other user types you identify, depending on your concept. These representatives of the app's various user types are your **stakeholders** for the purposes of this exercise.
 
-This project has an advantage most student projects do not: its users are real and they are nearby. Instructors, teaching assistants, and students are all around you, and the course's own instructor is a stakeholder for this product. Do not interview your teammates and call it research.
+This project has an advantage most student projects do not: its users and potential users are real and they are nearby. Instructors, teaching assistants, and students are all around you, and the course's own instructor is a stakeholder for this product. Do not interview your teammates or classmates working on the same project and call it research.
 
-Ask each of them questions about their goals, needs and desires. Find out problems and frustrations they have that this app might be able to help with — including frustrations with how they prepare, deliver, and study from lecture material today, whether or not they have ever used The Slide Machine. Where you can, sit a stakeholder in front of the live app and watch them try to use it; what they do is better evidence than what they say they would do. You should be able to identify at least four goals/needs and four problems/frustrations for each type of user.
+Ask each of them questions about their goals, needs and desires related to their roles. Find out problems and frustrations they have that this app might be able to help with — including frustrations with how they prepare, deliver, and study from lecture material today, whether or not they have ever used The Slide Machine.
 
-Write details about your stakeholder(s) and their goals and frustrations into the `README.md` file in the appropriate place. Be sure to note which type of user each stakeholder represents.
+Sit each of your stakeholders in front of the live app and watch them try to use it; observe them; what they do is better evidence than what they say they would do. You should be able to identify at least four goals/needs and four problems/frustrations for each type of user. Those are minimums - you can do better than meeting the minimum requirements, but quantity is less important than quality of insights.
+
+Write details about your stakeholder(s) and their goals and frustrations and any observations worthy of documenting into the `README.md` file in the appropriate place. Be sure to note which type of user each stakeholder represents.
+
+You should use your stakeholders' partial names or pseudonyms in any public documents, in order to maintain their privacy. However, you are reuqired to privately share their full names and email addresses with course administrators as part of your exercise submission so their identities and participation can be verified.
 
 ## Product Vision Statement
 
-Once your stakeholders have been interviewed, your team and they must settle on a foundational **Product Vision Statement** — a single sentence explaining the main concept of what you are proposing. The rest of your work will be based on this statement.
+Once your stakeholders have been interviewed, your team, with their consultation, must settle on a foundational **Product Vision Statement** — a single sentence (or two) explaining the main concept of what you are proposing. The rest of your work will be based on this statement.
 
-Because you are extending an existing product rather than inventing one, your statement must say what *your contribution* is for and whom it serves, in a way that is consistent with what The Slide Machine already is. It should be recognizable as a description of this app, and it should be specific enough that a feature which does not serve it can be identified and cut.
+Because you are extending an existing product rather than inventing one, your statement must say what _your contribution_ is for and whom it serves, in a way that is consistent with what The Slide Machine already is. It should be recognizable as a description of this app, and it should be specific enough that a feature which does not serve it can be identified and cut.
 
 Write this Product Vision Statement into the `README.md` file in the appropriate place.
 
@@ -85,7 +89,7 @@ User stories follow the template,"`As a [type of user], I want [some goal] so th
 
 For each type of user you have identified, write at least `10` user stories into the `README.md` file in the appropriate place. So, for example, if you have identified three types of users, write no fewer than `30` user stories total. But your job is not to meet the minimum number. Rather, it is to write an exhaustive list of user stories for each type of user - as many as necessary to describe all the unique actions a user can take by interacting with your proposed additions to the app. There should be no obvious functionality missing from your list for any type of user. Most likely, this will mean dozens of user stories for each type of user.
 
-Two cautions specific to this exercise. First, stories that describe functionality the app *already* has do not count toward your total — you are specifying what is new or changed, and a story that is already satisfied by the live app is not a requirement, it is an observation. Second, a feature is rarely finished by the story that introduces it: if a user can create a thing, some user must be able to find it, change it, share it, and delete it, and somebody has to be able to see what happened when it goes wrong. The stories that make a feature survive contact with real use are the ones teams forget.
+Two cautions specific to this exercise. First, stories that describe functionality the app _already_ has do not count toward your total — you are specifying what is new or changed, and a story that is already satisfied by the live app is not a requirement, it is an observation. Second, a feature is rarely finished by the story that introduces it: if a user can create a thing, some user must be able to find it, change it, share it, and delete it, and somebody has to be able to see what happened when it goes wrong. The stories that make a feature survive contact with real use are the ones teams forget.
 
 ## Diagrams
 
