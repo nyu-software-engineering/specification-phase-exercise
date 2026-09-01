@@ -29,7 +29,7 @@ Three rules shape everything in this exercise.
 
 **Your work must be an improvement to The Slide Machine, not a replacement for it.** Every feature you specify has to fit the app that already exists — its user types, its vocabulary, its screens, its constraints. A specification that ignores the product it is attached to is not a specification, it is a wish.
 
-**Your work is real.** Improvements and new features specified by student teams may be incorporated into the main project, and students whose contributions are adopted are given public credit for them. Specify accordingly.
+**Your work is real.** Improvements and new features specified by student teams may be incorporated into the main project, and students whose contributions are adopted are given public credit for them. Credit is awarded only for work that is **original and not already under consideration** — an idea already specified in the project's Future Work, already raised in its Open Questions, already scheduled on the roadmap, or already proposed by someone else is not yours to be credited for. This is not a reason to avoid those areas; a genuinely new answer to an open question is exactly the kind of contribution that gets adopted. It is a reason to know what is already there before you claim it, and to say plainly in your specification what part of your proposal is new. Specify accordingly.
 
 ## Review of the existing application
 
@@ -53,6 +53,8 @@ Ideation is often neglected. It is the process of coming up with a good idea.
 In this exercise, your ideas are bounded: you must decide upon a coherent set of improvements and new features for The Slide Machine that solve specific needs you have identified in its users. Your findings from the review above are your raw material, and so are the [existing project's open questions and future work](./background.md#where-the-project-already-tells-you-what-it-does-not-know) — the places where the project has already admitted it does not know the answer are the places where your work is most likely to be adopted.
 
 Before you can evaluate ideas, you must know whose problem you are solving. The Slide Machine already has several types of users, described in [background.md](./background.md#who-uses-the-slide-machine) — instructors who author and deliver lectures, students who receive quizzes and view shared decks, and administrators who operate the deployment. You may find that one of these types splits into sub-types with meaningfully different needs (a first-time instructor and an instructor mid-semester with sixty decks are not the same person), and you may find that your proposal introduces a user type the app does not serve today. Identify every type of user your proposal touches, and be prepared to justify any type you add.
+
+Before you commit to an idea, find out whether the project has already had it. Read the Future Work and Open Questions sections of the Software Design Document, the delivery roadmap, and the repository's open issues and pull requests. Then write a short **Prior Art & Originality** statement into the `README.md` file in the appropriate place, saying what you checked and which parts of your proposal are new. An idea that turns out to be already specified or already scheduled is still a legitimate thing to spend this exercise specifying — your grade rests on the quality of the specification — but it will not be credited to you as a contribution, and finding that out now is much cheaper than finding it out at the demo.
 
 Your proposal should be **substantial and coherent** — a themed body of work, not a scattering of unrelated tweaks. Some teams will deepen an area the app already has (live capture, templates, quizzes, sharing, administration); some will add an area it does not. Either is fine. A grab-bag of five unrelated small fixes is not.
 
@@ -132,6 +134,7 @@ Your repository's `README.md` must contain, at minimum:
 
 - [ ] the names of your team members, with links to their GitHub profiles
 - [ ] a review of the current application — at least `10` findings, each marked as a strength, weakness, or gap
+- [ ] a Prior Art & Originality statement — what you checked, and which parts of your proposal are new
 - [ ] your stakeholders, the user type each represents, and at least four goals/needs and four problems/frustrations for each
 - [ ] a one-sentence Product Vision Statement for your proposed contribution
 - [ ] at least `10` user stories per type of user, describing new or changed functionality

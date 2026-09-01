@@ -74,4 +74,6 @@ These are not arbitrary rules of the exercise; they are real constraints on the 
 
 This exercise is part of a funded pilot of The Slide Machine in this course. Improvements and new features specified by student teams may be incorporated into the main project, and students whose contributions are adopted receive public credit for them — which is a genuinely useful thing to be able to point at in a job interview or a graduate application. The count and nature of student-contributed features is also one of the pilot's own measures of whether the system is extensible enough to be worth building.
 
+**Credit goes only to work that is original and not already under consideration.** Before you commit to an idea, check whether the project has already got there: read the Future Work and Open Questions sections above, the roadmap, and the repository's open issues and pull requests. Something already specified, already scheduled, or already proposed by someone else can still be a perfectly good exercise to specify — you will be graded on the quality of your specification either way — but it will not be credited as your contribution. Working near those areas is fine and often smart; the requirement is that you know what is already there, and that your specification says clearly which part of it is yours.
+
 So: specify something you would want your name on.
