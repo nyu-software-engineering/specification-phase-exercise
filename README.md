@@ -41,3 +41,7 @@ See instructions. Delete this line and place a publicly-accessible link to your 
 ## Stakeholder Demo
 
 See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+
+## Exit Ticket
+
+See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.

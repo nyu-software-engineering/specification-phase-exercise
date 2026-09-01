@@ -18,6 +18,7 @@ The work to produce this specification will include:
 - UML diagramming
 - rapid prototyping
 - presenting your work to key stakeholders
+- generating and distributing an exit-ticket quiz on your presentation
 
 Read [background.md](./background.md) first — it explains what The Slide Machine is, who uses it, and where its existing documentation lives. Everything below assumes you have read it.
 
@@ -124,6 +125,16 @@ To do that well:
 
 Place a link to the deck the Slide Machine generated during your presentation into the `README.md` file in the appropriate place, after you have presented.
 
+### Exit ticket
+
+**After presenting, your team must generate an exit-ticket quiz from your presentation and distribute it to the rest of the class.** Use the app's own quiz generation on the deck your demo produced — that is the second half of the product, and a demo that stops at the slides has only exercised half of it.
+
+Before you publish the quiz, review it. The generated questions come from what you actually said, which means a question that is wrong or unanswerable is telling you something about your presentation as well as about the generator. Fix what is worth fixing, and keep a note of what you had to fix.
+
+Then distribute the quiz to your classmates in the `#specification-exercise` channel of our messaging system, and complete the exit tickets published by the other teams. This is not busywork: the point of an exit ticket is to find out how much of what you said was actually understood by the people you said it to, and the scores on your quiz are the most direct evidence you will get about whether your five minutes landed.
+
+Place a link to the exit-ticket quiz you distributed into the `README.md` file in the appropriate place, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+
 ## Submit your work
 
 When you are done submit your work by pushing your changes to this repository to GitHub. Then send the URL of your repository to both the graders in your personal channel and to the entire class in the `#specification-exercise` channel of our messaging system.
@@ -142,3 +153,4 @@ Your repository's `README.md` must contain, at minimum:
 - [ ] wireframes covering every new and every changed screen, for every type of user
 - [ ] a publicly-accessible link to your clickable prototype, requiring no login
 - [ ] a link to the deck The Slide Machine generated during your stakeholder demo
+- [ ] a link to the exit-ticket quiz you generated from that deck and distributed to the class, with a note on what you had to correct in it
