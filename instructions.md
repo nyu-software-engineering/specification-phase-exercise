@@ -129,6 +129,21 @@ To do that well:
 
 Place a link to the deck the Slide Machine generated during your presentation into the `README.md` file in the appropriate place, after you have presented.
 
+### Demo rubric
+
+Team demos will be scored according to the following dimensions, where all have equal weight:
+
+| Dimension                     | 1                                                                                     | 4                                                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Substance of the proposal** | A cosmetic tweak, or a grab-bag of unrelated small fixes                              | A coherent themed body of work, traceable to specific findings and to a real user need                  |
+| **Specification process**     | Deliverables produced in isolation; no evidence of review, stakeholders, or prior art | Findings → stakeholders → vision → stories → diagrams → prototype, each step visibly informing the next |
+| **Speaking without reading**  | Read from a script or from the screen                                                 | Addressed the room; the slides followed the speaker                                                     |
+| **The deck as generated**     | Incoherent, or key points never appeared                                              | Coherent, covered the stated points                                                                     |
+| **Recovery**                  | A misbehaving tool derailed the demo                                                  | Handled a wrong or missing slide without losing the thread                                              |
+| **Q&A**                       | Could not justify the proposal beyond restating it                                    | Explained design decisions, trade-offs, what was cut and why, and what was already prior art            |
+
+These scores will be averaged to produce the **Overall** grade for the demo.
+
 ### Exit ticket
 
 **After presenting, your team must generate an exit-ticket quiz from your presentation and distribute it to the rest of the class.** Use the app's own quiz generation on the deck your demo produced — that is the second half of the product, and a demo that stops at the slides has only exercised half of it.
