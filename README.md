@@ -8,6 +8,8 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Review of the Current Application
 
+- strength: it can use context of old notes so that you are able to reference other material that you might have missed
+
 See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
 
 ## Prior Art & Originality
