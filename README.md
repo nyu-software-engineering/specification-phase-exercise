@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Carina-Ana-Maria Ilie, [github](https://github.com/carinutza)
+-
+-
+-
+
 
 ## Review of the Current Application
 
@@ -24,7 +28,48 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+
+#### Instructors
+
+
+- As an *instructor*, I want *every new lecture to be defaulted to private* so that *unfinished or test lectures are not accidentally visible to students or in Discover*.
+
+
+- As an *instructor*, I want *AI live transcription to automatically pause when the lecture tab is inactive or no speech is detected*, so that I *do not accidentally consume my plan allowance when I am no longer presenting*.
+
+
+- As an *instructor*, I want to *see my notes in on the side as I start presenting* so that I can *reference my them and know that I am on track with the key points I want to make*.
+
+
+- As an *instructor*, I want *to be able to edit the color, font, and size of the text on the slides* so that I can *make sure the presentation stylistically aligns with my view*.
+
+
+- As an *instructor*, I want *to be able to invite
+students to my whiteboard*, so that I *can coordinate in-class interactive activities for my online classes*.
+
+- As an *instructor*, I want *to see under every peresentation I create weather or not it is private, link-only, and on Discover* so that I can *quickly tell who can see my work*. 
+
+- As an *instructor*, 
+
+- 
+
+- (?) As an *instructor*, I want *to be able to create a folder that can be access only by people who have the link* so that I can *ensure only my target audience sees my lectures*.
+
+
+#### Students
+
+
+- As a *student*, I want to *download a transcript of the presentation* so that *I can use it to generate my own notes to study*.
+
+
+- As a *student*, I want to *download lecture notes in plain text or Markdown when the instructor permits it* so that I can *study offline or use the material with my preferred study tools*.
+
+
+- As a *student*, I want to *search and filter lectures by course, subject, instructor, title, and slide content* so that I can *find relevant study material without scrolling through unrelated lectures.*
+
+
+- As a *student* I want to *be able to pin folders* so that I *can access them easily from the home page*.
+
 
 ## Activity Diagrams
 
