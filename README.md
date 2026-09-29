@@ -105,8 +105,8 @@ Our contribution is to improve the post-lecture editing and sharing capabilities
 14. As an instructor, I want the option to make a slide's speaker notes visible to students, so that I can share extra context when it's useful for review.
 15. As an instructor, I want the live transcription display removed from the bottom of the screen during lecture, so that it doesn't distract me or disappear before I can read it.
 16. As an instructor, I want an alternative, less intrusive way to confirm the app is capturing my speech (without the current bottom bar), so that I still have feedback the system is working.
-17. As a new instructor, I want a single clear "Get Started" option on first visit, so that I'm not confused about whether to sign in or create an account.
-18. As a returning instructor, I want to be logged in automatically after my first session, so that I don't have to repeatedly choose between sign-in and account creation.
+17. As an instructor, I want a single clear "Get Started" option on first visit, so that I'm not confused about whether to sign in or create an account.
+18. As an instructor, I want to be logged in automatically after my first session, so that I don't have to repeatedly choose between sign-in and account creation.
 
 ### User Stories - Students (16)
 
@@ -124,8 +124,8 @@ Our contribution is to improve the post-lecture editing and sharing capabilities
 12. As a student, I want to see speaker notes only on slides where the instructor has chosen to share them, so that I get extra context without seeing notes meant to be private.
 13. As a student, I want a cleaner slide view without a distracting bottom bar during playback, so that I can focus on the slide content itself.
 14. As a student, I want captions (if enabled) displayed in a way that doesn't disappear too quickly, so that I can actually read them while following along.
-15. As a new student, I want the same clear "Get Started" entry point, so that account setup doesn't require guessing which option applies to me.
-16. As a returning student, I want to be recognized and logged in automatically, so I can get straight to viewing lecture content.
+15. As a student, I want the same clear "Get Started" entry point, so that account setup doesn't require guessing which option applies to me.
+16. As a student, I want to be recognized and logged in automatically, so I can get straight to viewing lecture content.
 
 ## Activity Diagrams
 
